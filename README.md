@@ -1,55 +1,53 @@
-## About me
+# 👨‍💻 Julien - Electronics Engineering Student
 
-I'm Julien, a 21 year old electronics engineer student, at [HELHa](https://www.helha.be/).
+Welcome to my GitHub profile! I'm **Julien**, a 21-year-old **Electronics Engineering** student at [HELHa](https://www.helha.be/).  
+Passionate about technology, I've developed various skills in **electronics**, **PCB design**, **robotics**, and **project management** through my studies and projects.
 
-During my formation, I've learned multiple skills, such as electronics, PCB designing, robotics and projects management.
+---
 
-## Projects
-> Robotix's Contest | 2024-2025
+## 🛠️ Projects
 
-We're competing for the HELHa's engineer school, we're a team of 3 electronics engineer students and 2 electromechanical engineer students.
+### 🤖 **Robotix's Contest | 2024-2025**
+We're representing **HELHa's engineering school** in the prestigious **Robotix Contest**!  
+Our team consists of 3 electronics engineering students and 2 electromechanical engineering students. The goal is to build a **main robot** and **3 smaller robots** to achieve various objectives in an arena:
+- Collecting cans and planks to build structures.
+- Deploying a banner.
+- And much more!
 
-The aim of the project is to build a main robot and 3 smaller ones to reach some objectives inside an arena, such as collecting cans and planks to build something with, deploy a banner, etc...
+🔗 [Contest Rules](https://www.eurobot.org/eurobot-contest/eurobot-2025/)  
+🔗 [Our Journey](https://be.linkedin.com/in/julien-navez)
 
-Look at Robotix's Contest rules [here](https://www.eurobot.org/eurobot-contest/eurobot-2025/).
+---
 
-Look at our journey [here](https://be.linkedin.com/in/julien-navez).
+### 🤖 **Remote Controlled Robot with Arm | 2023-2024**
+A **third-year project** where we designed and built a remote-controlled robot from scratch!  
+- **Custom-made electronics:** We were forbidden to use premade Arduino boards, so we designed our own.
+- **Software integration:** Controlled via a **JavaFX** interface.
 
-> Remote controlled robot with arm | 2023-2024
+---
 
-Third-year project where we had to create our first remote controlled robot, from scratch. We were forbidden to use premade Arduino boards so we had to build ours. It was controlled with a JavaFX interface.
+### 🛠️ **Electric Ground Sieve | 2022-2023**
+This **second-year project** was developed in collaboration with **Protect'Eau** to help farmers sieve soil samples faster and more efficiently.
 
-> Electric Ground Sieve | 2022-2023
+---
 
-Second-year project in collaboration with Protect'Eau company. We had to design a sieve to help farmers sieving samples faster.
+### 🏥 **MRI Simulator for Children | 2021-2022**
+Our **first-year project** was to design a **3/4 scale MRI simulator** for **GHdC Notre Dame hospital**.  
+The simulator helps children familiarize themselves with medical examinations, reducing stress and improving their experience.
 
-> MRI Simulator for children | 2021-2022
+---
 
-First-year project for an hospital (GHdC Notre Dame). We had to design a 3/4 MRI to accustom children to take this kind of medical examination.
+## ⚙️ Engineering Skills
+[![Engineering Skills](https://skillicons.dev/icons?i=arduino,autocad,latex,matlab,octave)](https://skillicons.dev)
 
-## Engineering Skills
+---
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,autocad,latex,matlab,octave)](https://skillicons.dev)
+## 💻 Programming Skills
+[![Programming Skills](https://skillicons.dev/icons?i=c,github,idea,java,opencv,py,vscode,js)](https://skillicons.dev)
 
-## Programmation Skills
-[![My Skills](https://skillicons.dev/icons?i=c,github,idea,java,opencv,py,vscode,js)](https://skillicons.dev)
+---
 
-## Reach me
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) 
+## 🌐 Reach Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://be.linkedin.com/in/julien-navez)
 
-- [LinkedIn](https://be.linkedin.com/in/julien-navez)
-
-<!--
-**JujuXu/JujuXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
