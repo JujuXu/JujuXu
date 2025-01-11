@@ -38,12 +38,12 @@ The simulator helps children familiarize themselves with medical examinations, r
 ---
 
 ## ⚙️ Engineering Skills
-[![Engineering Skills](https://skillicons.dev/icons?i=arduino,autocad,latex,matlab,octave)](https://skillicons.dev)
+[![Engineering Skills](https://skillicons.dev/icons?i=autocad,latex,matlab,octave)](https://skillicons.dev)
 
 ---
 
 ## 💻 Programming Skills
-[![Programming Skills](https://skillicons.dev/icons?i=c,github,idea,java,opencv,py,vscode,js)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=arduino,c,github,idea,java,opencv,py,vscode,js)](https://skillicons.dev)
 
 ---
 
