@@ -8,7 +8,7 @@ Passionate about technology, I've developed various skills in **electronics**, *
 ## 🛠️ Projects
 
 ### 🤖 **Robotix's Contest | 2024-2025**
-We're representing **HELHa's engineering school** in the prestigious **Robotix Contest**!  
+We're representing **HELHa's engineering school** in the **Robotix Contest**!  
 Our team consists of 3 electronics engineering students and 2 electromechanical engineering students. The goal is to build a **main robot** and **3 smaller robots** to achieve various objectives in an arena:
 - Collecting cans and planks to build structures.
 - Deploying a banner.
@@ -27,7 +27,7 @@ A **third-year project** where we designed and built a remote-controlled robot f
 ---
 
 ### 🛠️ **Electric Ground Sieve | 2022-2023**
-This **second-year project** was developed in collaboration with **Protect'Eau** to help farmers sieve soil samples faster and more efficiently.
+This **second-year project** was developed in collaboration with **Protect'Eau** to help farmers sieve soil samples faster and easier.
 
 ---
 
