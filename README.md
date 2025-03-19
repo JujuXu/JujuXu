@@ -1,6 +1,6 @@
 # ⚡ Julien - Electronics Engineering Student
 
-Welcome to my GitHub profile! I'm **Julien**, a 21-year-old **Electronics Engineering** student at [HELHa](https://www.helha.be/).  
+Welcome to my GitHub profile! I'm **Julien**, a 22-year-old **Electronics Engineering** student at [HELHa](https://www.helha.be/).  
 Passionate about technology, I've developed various skills in **electronics**, **PCB design**, **robotics**, and **project management** through my studies and projects.
 
 ---
